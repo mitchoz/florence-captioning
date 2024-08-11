@@ -7,4 +7,10 @@ Might help some get the right idea though. If somebody wants to finish it, feel 
 It will generate a .txt file for jpegs, pngs and gifs.
 Every .txt file will have the same name as file.
 
+How to use:
+- Create venv
+- Install requirements e.g. pip install -r requirements.txt (they might be incomplete)
+- Change path to your image files in make_captions.py
+- Run python make_captions.py 
+
 Cheers
